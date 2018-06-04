@@ -3,7 +3,7 @@ BTÖ 312 Çoklu Ortam Tasarımı ve Üretimi Final Projesi<br>
 Ad Soyad : Burak Yüksel<br>
 Ders Sorumlusu : Alev ÖZKÖK, Nihal MENZİ<br>
 
-<h3>Kullandığım Teknolojiler</h><br>
+<h3>Kullandığım Teknolojiler</h3><br>
 HTML<br>
 CSS<br>
 JAVASCRIPT<br>
