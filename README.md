@@ -1,4 +1,13 @@
 # Burak_Yuksel
+BTÖ 312 Çoklu Ortam Tasarımı ve Üretimi Final Projesi<br>
+Ad Soyad : Burak Yüksel<br>
+Ders Sorumlusu : Alev ÖZKÖK, Nihal MENZİ<br>
+
+<h3>Kullandığım Teknolojiler</h><br>
+HTML<br>
+CSS<br>
+JAVASCRIPT<br>
+
 Bu proje Web Terminolojisinin önemini konu alan ve bununla beraber bazı web terminoloji kavramlarının açıklanmasını sağlayan bir yapıda oluşturulmuştur. Web terminolojisinin önemi index.html sayfasında açıklanmış ve terminoloji kavramları hakkındaki bilgiler html klasörünün içerisindeki sayfalarda mevcuttur. Sitenin hakları Burak Yüksel’ e aittir.<br>
 Bu projenin oluşturulmasında örnek bir template kullanılmıştır. Bu templatenin içeriğini açıklamak gerekirse:<br>
 Template temelde 3 parçadan oluşmakta: Banner,Content,Footer<br>
