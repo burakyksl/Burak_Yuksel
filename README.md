@@ -1,5 +1,5 @@
 # Burak_Yuksel
-BTÖ 312 Çoklu Ortam Tasarımı ve Üretimi Final Projesi<br>
+<h3>BTÖ 312 Çoklu Ortam Tasarımı ve Üretimi Final Projesi</h3><br>
 Ad Soyad : Burak Yüksel<br>
 Ders Sorumlusu : Alev ÖZKÖK, Nihal MENZİ<br>
 
