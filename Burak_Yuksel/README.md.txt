@@ -1,25 +1,47 @@
+BTÃ– 312 Ã‡oklu Ortam TasarÄ±mÄ± ve Ãœretimi Final Projesi
 
-Bu proje Web Terminolojisinin önemini konu alan ve bununla beraber bazı web terminoloji kavramlarının açıklanmasını sağlayan bir yapıda oluşturulmuştur. Web terminolojisinin önemi index.html sayfasında açıklanmış ve terminoloji kavramları hakkındaki bilgiler html klasörünün içerisindeki sayfalarda mevcuttur. Sitenin hakları Burak Yüksel’ e aittir.
-Bu projenin oluşturulmasında örnek bir template kullanılmıştır. Bu templatenin içeriğini açıklamak gerekirse:
-Template temelde 3 parçadan oluşmakta: Banner,Content,Footer
+Ad Soyad : Burak YÃ¼ksel
+Ders Sorumlusu : Alev Ã–ZKÃ–K, Nihal MENZÄ°
+KullandÄ±ÄŸÄ±m Teknolojiler
+
+HTML
+CSS
+JAVASCRIPT
+bootstrap
+Diziler HakkÄ±nda
+
+html -dizi
+WebMaster.html
+HomePage.html
+HD.html
+Gif.html
+E_ticaret.html
+images -dizi
+image-dizi
+css -dizi
+assets -dizi
+js-dizi
+master -dizi
+templates -dizi
+template.html
+index.html
+style.css
+Bu proje Web Terminolojisinin Ã¶nemini konu alan ve bununla beraber bazÄ± web terminoloji kavramlarÄ±nÄ±n aÃ§Ä±klanmasÄ±nÄ± saÄŸlayan bir yapÄ±da oluÅŸturulmuÅŸtur. Web terminolojisinin Ã¶nemi index.html sayfasÄ±nda aÃ§Ä±klanmÄ±ÅŸ ve terminoloji kavramlarÄ± hakkÄ±ndaki bilgiler html klasÃ¶rÃ¼nÃ¼n iÃ§erisindeki sayfalarda mevcuttur. Sitenin haklarÄ± Burak YÃ¼kselâ€™ e aittir.
+Bu projenin oluÅŸturulmasÄ±nda Ã¶rnek bir template kullanÄ±lmÄ±ÅŸtÄ±r. Bu templatenin iÃ§eriÄŸini aÃ§Ä±klamak gerekirse:
+Template temelde 3 parÃ§adan oluÅŸmakta: Banner,Content,Footer
 Banner: 
-Template’de yer lan banner bir Navbar ‘dan oluşmakta. Banner oluşturulurken boostrap kütüphaneleri, javascriptler ve Google yazı fontları kütüphaneleri kullanılmıştır. 
-<link rel="stylesheet" href="css/bootstrap.css">
-<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
+Templateâ€™de yer lan banner bir Navbar â€˜dan oluÅŸmakta. Banner oluÅŸturulurken boostrap kÃ¼tÃ¼phaneleri, javascriptler ve Google yazÄ± fontlarÄ± kÃ¼tÃ¼phaneleri kullanÄ±lmÄ±ÅŸtÄ±r. 
+link rel="stylesheet" href="css/bootstrap.css">
+link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/main.js"></script>
- Content:
-Content alanı dinamik içerik ve statik içerik olarak 2’ye ayrılmıştır. Statik içerik bölümünde site geliştiricisinin resmi ve bilgileri yer almaktadır. Dinamik içerikte ise site amacı olan web terminolojisi kavramlarının anlatılması yer almaktadır.
+Content:
+Content alanÄ± dinamik iÃ§erik ve statik iÃ§erik olarak 2â€™ye ayrÄ±lmÄ±ÅŸtÄ±r. Statik iÃ§erik bÃ¶lÃ¼mÃ¼nde site geliÅŸtiricisinin resmi ve bilgileri yer almaktadÄ±r. Dinamik iÃ§erikte ise site amacÄ± olan web terminolojisi kavramlarÄ±nÄ±n anlatÄ±lmasÄ± yer almaktadÄ±r.
 Footer:
-Footer alanında site haritası kişisel iletişim bilgileri, telif hakkı, kurumsal bilgi gibi bilgiler yer almaktadır.
-Bu projenin yaratılmasındaki amaç Hacettepe Üniversitesi BÖTE bölümü BTO312 Çoklu Ortam Tasarımı ve Üretimi dersi kapsamında hazırlanmış ve sürdürülmüş olmasıdır.
+Footer alanÄ±nda site haritasÄ± kiÅŸisel iletiÅŸim bilgileri, telif hakkÄ±, kurumsal bilgi gibi bilgiler yer almaktadÄ±r. Bu projenin yaratÄ±lmasÄ±ndaki amaÃ§ Hacettepe Ãœniversitesi BÃ–TE bÃ¶lÃ¼mÃ¼ BTO312 Ã‡oklu Ortam TasarÄ±mÄ± ve Ãœretimi dersi kapsamÄ±nda hazÄ±rlanmÄ±ÅŸ ve sÃ¼rdÃ¼rÃ¼lmÃ¼ÅŸ olmasÄ±dÄ±r.
+Projenin gÃ¶rÃ¼ntÃ¼lene bilmesi iÃ§in Buray_Yuksel dizinine girerek index.html sayfasÄ±nÄ± Google Crome tarayÄ±cÄ±sÄ±nda Ã§alÄ±ÅŸtÄ±rmak yeterli olacaktÄ±r.
+Bu projenin hazÄ±rlanmasÄ±nda yararlanÄ±lan ve referans alÄ±nan kaynaklardan bazÄ±larÄ± DoÃ§. DR ALEV Ã–ZKÃ–Kâ€™ Ã¼n Google fotoÄŸraflardan paylaÅŸÄ±mÄ±nda bulunduÄŸu ekran gÃ¶rÃ¼ntÃ¼leridir. AlÄ±nan referans kaynaklarÄ±nÄ±n linki aÅŸaÄŸÄ±da mevcuttur.
+https://photos.app.goo.gl/B97C3aPLWLVh8cCg7
 
-Projenin görüntülene bilmesi için Buray_Yuksel dizinine girerek index.html sayfasını Google Crome tarayıcısında çalıştırmak yeterli olacaktır.
-Bu projenin hazırlanmasında yararlanılan ve referans alınan kaynaklardan bazıları Doç. DR ALEV ÖZKÖK’ ün Google fotoğraflardan paylaşımında bulunduğu ekran görüntüleridir. Alınan referans kaynaklarının linki aşağıda mevcuttur.
-https://photos.app.goo.gl/B97C3aPLWLVh8cCg7  
-
-Projenin çalışır ve son sürümüne “burakyuksel.me” adresinden ulaşabilirsiniz.
-
-
-
+Projenin Ã§alÄ±ÅŸÄ±r ve son sÃ¼rÃ¼mÃ¼ne â€œburakyuksel.meâ€ adresinden ulaÅŸabilirsiniz.
