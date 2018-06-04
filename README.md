@@ -16,6 +16,16 @@ HomePage.html<br>
 HD.html<br>
 Gif.html<br>
 E_ticaret.html<br>
+<h4>images -dizi<br></h4>
+image-dizi<br>
+<h4>css -dizi<br></h4>
+<h4>assets -dizi<br></h4>
+js-dizi<br>
+<h4>master -dizi<br></h4>
+<h4>templates -dizi<br></h4>
+template.html<br>
+<h4>index.html<br></h4>
+<h4>style.css<br></h4>
 Bu proje Web Terminolojisinin önemini konu alan ve bununla beraber bazı web terminoloji kavramlarının açıklanmasını sağlayan bir yapıda oluşturulmuştur. Web terminolojisinin önemi index.html sayfasında açıklanmış ve terminoloji kavramları hakkındaki bilgiler html klasörünün içerisindeki sayfalarda mevcuttur. Sitenin hakları Burak Yüksel’ e aittir.<br>
 Bu projenin oluşturulmasında örnek bir template kullanılmıştır. Bu templatenin içeriğini açıklamak gerekirse:<br>
 Template temelde 3 parçadan oluşmakta: Banner,Content,Footer<br>
