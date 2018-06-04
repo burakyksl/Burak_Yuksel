@@ -10,7 +10,6 @@ JAVASCRIPT<br>
 bootstrap<br>
 
 <h3>Diziler Hakkında</h3><br>
-
 <h4>html -dizi<br></h4>
 WebMaster.html<br>
 HomePage.html<br>
